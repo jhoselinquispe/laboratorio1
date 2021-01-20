@@ -1,0 +1,22 @@
+{
+  "name": "problemas",
+  "version": "1.0.0",
+  "description": "tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoselinquispe/laboratorio1.git"
+  },
+  "author": "jhoselin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoselinquispe/laboratorio1/issues"
+  },
+  "homepage": "https://github.com/jhoselinquispe/laboratorio1#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
